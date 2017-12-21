@@ -1,0 +1,6 @@
+{
+    "username": "<your Discovery service username>",
+    "password": "<your Discovery service password>",
+    "environment_id": "<the environment id for your Discovery demo instance>",
+    "collection_id": "<the collection id for your Discovery demo instance>"
+}
